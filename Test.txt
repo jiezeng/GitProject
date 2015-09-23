@@ -5,6 +5,9 @@ Change in GitProject
 
 Change from TestProject
 
+Change from TestProject
 
 Add feature A
+
+Add featureC in TestProject
 
