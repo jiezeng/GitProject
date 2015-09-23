@@ -1,3 +1,7 @@
 This is a test file
 Change from TestProject
+
 Change in GitProject
+
+Change from TestProject
+
